@@ -74,7 +74,7 @@ a:active,a:hover 	{outline: 0;}
 .center .wrap	{text-align:center;}
 
 /* 03 TYPOGRAPHY */
-h1,h2,h3,h4,h5,h6,.header,.intro,label,input,textarea,select,table,dl,option,optgroup,.selector,.btn,.f-title,.pager,.contact-data,.categories,.meta,.tabs,.price,.trigger,.close,.output,.xdsoft_datetimepicker,.slicknav_menu,.readonly .f-row,.infoBox, #message		 {font-family: 'Montserrat', sans-serif;font-weight:400;}
+h1,h2,h3,h4,h5,h6,.header,.intro,label,input,textarea,select,table,dl,option,optgroup,.selector,.btn,.f-title,.pager,.contact-data,.categories,.meta,.tabs,.price,.trigger,.close,.output,.xdsoft_datetimepicker,.slicknav_menu,.readonly .f-row,.infoBox, #message		 {font-family: Helvetica, sans-serif;font-weight:400;}
 
 h1 {font-size:24px;}
 h2 {font-size:24px;padding:0 0 28px;}
